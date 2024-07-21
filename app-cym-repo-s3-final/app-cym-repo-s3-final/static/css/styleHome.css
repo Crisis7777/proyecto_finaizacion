@@ -1,0 +1,28 @@
+img {
+    border-style: ridge;
+    border-color: white;
+    height: 450px;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+div{
+    text-align: center;
+}
+ body {
+    background: aqua;
+}
+button {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 0.5%;
+    margin-left: 0.3%;
+    margin-right: 0.3%;
+}
